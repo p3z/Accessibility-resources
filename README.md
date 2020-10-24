@@ -2,11 +2,9 @@
 
 Hey guys,
 
-So this is a very quick thrown together list of all the resources that I've uncovered over the last year or so on the topic of web accessibility.
-In coming days depending on how popular it is, I may tidy it up a bit, but you get the gist.
+So this is a very slowly growing list of resources that I've uncovered over the last year or so on the topic of web accessibility.
 
-The table is a list of tools.
-The bullets are text resources or searches I've done that have returned some compelling results, either in conversation (eg such as on Reddit) or via Google.
+It's divided into a section of tools, general resources, and search terms I've used that have returned some compelling results, either in conversation (eg such as on Reddit) or via Google.
 
 Enjoy and stay safe out there!
 
