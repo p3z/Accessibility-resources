@@ -18,5 +18,6 @@
 - [Google search: Accessibility library](https://www.google.com/search?sxsrf=ALeKk02BLS2reQNzz9GBIFgAOJ1YZBif8Q%3A1591374973607&ei=fXTaXqLKJIeEhbIPkvm0qAg&q=accessibility+library+github&oq=accessibility+library+github&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQFhAeOggIIRAWEB0QHjoFCCEQoAE6BwghEAoQoAFQvipY0TFgnDdoAHACeAGAAd0CiAHaCJIBBzMuMi4wLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwji_IXgjevpAhUHQkEAHZI8DYUQ4dUDCAw&uact=5)
 -  [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 -  [Subreddit](Webaccess)https://www.reddit.com/r/webaccess/
-- [Accessibility.org (2 simplified guides available upon submission of email address](https://accessible.org/)
+- [Accessibility.org (2 simplified guides available upon submission of email address)](https://accessible.org/)
 - [Inclusive design for products (book)](https://www.amazon.co.uk/Inclusive-Design-Products-Including-accessibility-ebook/dp/B07Z8HJGPC/ref=sr_1_4?dchild=1&keywords=inclusive+design&qid=1603561672&sr=8-4)
+- [WCAG, Oxygen, and WP: A video series walking you through the implementation of WCAG in tandem with the Oxygen builder (Still in development as of 02/12/20)](https://www.youtube.com/playlist?list=PL34E2V726C6o81xWcVEftiq7k2sgFdT1N)
